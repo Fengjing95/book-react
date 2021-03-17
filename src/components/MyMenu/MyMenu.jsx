@@ -85,7 +85,7 @@ export class MyMenu extends Component {
   }
 
   componentDidUpdate() {
-    console.log(1);
+    // console.log(1);
   }
   // storeChange = () => {
   //   this.setState(store.getState())
